@@ -63,6 +63,9 @@ namespace IOTextFiles
 					return false;
 				}
 
+				//За стратиране на файла
+				System.Diagnostics.Process.Start (_filePath );
+
 					return true;
 			}catch{
 			}
