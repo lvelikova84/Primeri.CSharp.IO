@@ -1,4 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Settings>
+
+<rows>
   <row property="simple property;">simple value</row>
+  <row property="simple property1;">simple value1</row>
+  <row property="simple property2;">simple value2</row>
+  <row property="simple property3;">simple value3</row>
+  <row property="simple property4;">simple value4</row>
+  <row property="simple property5;">simple value5</row>
+  <row property="simple property6;">simple value6</row>
+  <row property="simple property7;">simple value7</row> 
+</rows>
+
+<simple>
+  <simpleRow> value 01 </simpleRow>
+  <simpleRow> value 02 </simpleRow>
+  <simpleRow> value 03 </simpleRow>
+</simple>
 </Settings>
